@@ -1,3 +1,7 @@
+# Live Demo
+
+https://vercel.com/phani-s-projects1/password-generator
+
 🔐 SecurePass — Password Generator & Security Analyzer
 A full-stack, production-ready cybersecurity web application built with the MERN stack. 
 Generate strong passwords with 4 modes (Standard, Passphrase, Banking Grade, WiFi), 
